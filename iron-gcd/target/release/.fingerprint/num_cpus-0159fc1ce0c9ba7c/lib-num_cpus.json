@@ -1,0 +1,1 @@
+{"rustc":12355087580157651621,"features":"[]","target":13818076475246349864,"profile":4339006351771724982,"path":9522589462569373181,"deps":[[16242032045797970659,"libc",false,7848076878093158372]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/num_cpus-0159fc1ce0c9ba7c/dep-lib-num_cpus"}}],"rustflags":[],"metadata":1799163834891829354,"config":0}

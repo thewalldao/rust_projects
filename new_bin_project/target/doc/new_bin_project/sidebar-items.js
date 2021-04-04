@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["main","this is new test project"]]});
